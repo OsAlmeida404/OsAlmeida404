@@ -1,5 +1,5 @@
 # Olá, eu sou a Maria Almeida
-👩🏽 Maria Almeida
+👩🏽 Maria Almeida |
 💻 Desenvolvedora | 📊 Analista de Dados | 🚀 Entusiasta de Tecnologia
 ## Sobre mim
 
