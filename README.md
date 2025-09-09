@@ -20,7 +20,7 @@ Sou apaixonada por desenvolver soluções inteligentes que impactam pessoas e ne
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 ## Estatísticas do GitHub
-![GitHub Stats](https://img.shields.io/badge/-Estat%C3%ADsticas%20do%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white&colorA=0077B5)
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Maria-404&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-404&layout=compact&theme=radical)
 ---
