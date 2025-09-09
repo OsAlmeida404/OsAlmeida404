@@ -8,7 +8,7 @@ Tenho experiência em **análise de dados**, **criação e gerenciamento de banc
 Sou apaixonada por desenvolver soluções inteligentes que impactam pessoas e negócios, utilizando tanto **Hard Skills técnicas** quanto **Soft Skills de colaboração, comunicação e liderança** para resolver problemas complexos em equipe.
 ---
 ## Tecnologias e Ferramentas
-![Tools](https://img.shields.io/badge/-Tecnologias%20e%20Ferramentas-blue?style=for-the-badge&logo=codetogether&logoColor=white&colorA=0077B5)
+
 ### ✨ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
