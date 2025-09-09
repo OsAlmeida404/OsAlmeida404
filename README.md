@@ -1,7 +1,6 @@
 # Olá, eu sou a Maria Almeida
-![Wave](https://img.shields.io/badge/Hello-Maria%20Almeida-blue?style=for-the-badge&logoColor=white&colorA=0077B5)
-![Developer](https://img.shields.io/badge/-Desenvolvedora-blue?style=for-the-badge&logo=github&logoColor=white&colorA=1F2022) | ![Data Analyst](https://img.shields.io/badge/-Analista%20de%20Dados-blue?style=for-the-badge&logo=googlesheets&logoColor=white&colorA=283B4F) | ![Tech Enthusiast](https://img.shields.io/badge/-Entusiasta%20de%20Tecnologia-blue?style=for-the-badge&logo=react&logoColor=white&colorA=61DAFB)
----
+👩🏽 Maria Almeida
+💻 Desenvolvedora | 📊 Analista de Dados | 🚀 Entusiasta de Tecnologia
 ## Sobre mim
 
 Tenho experiência em **análise de dados**, **criação e gerenciamento de bancos de dados** e **automação de planilhas**.
