@@ -3,7 +3,7 @@
 ![Developer](https://img.shields.io/badge/-Desenvolvedora-blue?style=for-the-badge&logo=github&logoColor=white&colorA=1F2022) | ![Data Analyst](https://img.shields.io/badge/-Analista%20de%20Dados-blue?style=for-the-badge&logo=googlesheets&logoColor=white&colorA=283B4F) | ![Tech Enthusiast](https://img.shields.io/badge/-Entusiasta%20de%20Tecnologia-blue?style=for-the-badge&logo=react&logoColor=white&colorA=61DAFB)
 ---
 ## Sobre mim
-![About Me](https://img.shields.io/badge/-Sobre%20Mim-blue?style=for-the-badge&logo=about.me&logoColor=white&colorA=0077B5)
+
 Tenho experiência em **análise de dados**, **criação e gerenciamento de bancos de dados** e **automação de planilhas**.
 Sou apaixonada por desenvolver soluções inteligentes que impactam pessoas e negócios, utilizando tanto **Hard Skills técnicas** quanto **Soft Skills de colaboração, comunicação e liderança** para resolver problemas complexos em equipe.
 ---
