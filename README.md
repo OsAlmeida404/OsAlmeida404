@@ -9,12 +9,12 @@ Sou apaixonada por desenvolver soluções inteligentes que impactam pessoas e ne
 ---
 ## Tecnologias e Ferramentas
 ![Tools](https://img.shields.io/badge/-Tecnologias%20e%20Ferramentas-blue?style=for-the-badge&logo=codetogether&logoColor=white&colorA=0077B5)
-### :losango_azul_pequeno: Banco de Dados
+### ✨ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-### :losango_azul_pequeno: Linguagens & Back-end
+### ✨ Linguagens & Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
