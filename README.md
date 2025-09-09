@@ -22,7 +22,7 @@ Sou apaixonada por desenvolver soluções inteligentes que impactam pessoas e ne
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Maria-404&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-404&layout=compact&theme=radical)
+
 ---
 ## Conecte-se comigo
 ![Connect](https://img.shields.io/badge/-Conecte--se%20Comigo-blue?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0077B5)
