@@ -25,7 +25,7 @@ Sou apaixonada por desenvolver soluções inteligentes que impactam pessoas e ne
 
 ---
 ## Conecte-se comigo
-![Connect](https://img.shields.io/badge/-Conecte--se%20Comigo-blue?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0077B5)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-almeida-flores-a08453383/)
 ---
 ![Learning](https://img.shields.io/badge/-Sempre%20Aprendendo-blue?style=for-the-badge&logo=microdotblog&logoColor=white&colorA=283B4F) ![Creating](https://img.shields.io/badge/-Sempre%20Criando-blue?style=for-the-badge&logo=git%20lfs&logoColor=white&colorA=61DAFB)
